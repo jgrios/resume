@@ -1,13 +1,13 @@
-#José Gonzalo Rios Torres
+# José Gonzalo Rios Torres
 +52 (614)413-6959
 jose.rios@yahoo.com  
 [https://www.linkedin.com/in/jose-gonzalo-rios-torres/]
 
-#Summary
+# Summary
 
 Systems and Network Administrator with extensive experience in management unix-like systems (Linux, Solaris and HP-UX), project management, management of network security (firewall, proxy, vpn, IDS) and network audit systems, servers security. Devops experience working with deployments and configuration management. Professor in Computer Science. Enthusiastic to investigate and learn. 
 
-#Work Experience
+# Work Experience
 
 ## Chelmer Limited (Auckland, New Zealand)
 *[Chelmer LTD][]  *
